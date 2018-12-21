@@ -14,8 +14,14 @@
 @media (max-width: 900px) {
   body {
     font-size:85%
+  }
 #logo h1 {
-  height and width: 35px;
+  height: 35px;
+  width: 35px;
 }
+#social {
+  top position: 72px;
+}
+
 }
 
