@@ -13,8 +13,9 @@
 
 @media (max-width: 900px) {
   body {
-    font-size=85%
-#logo h1 
-  }
+    font-size:85%
+#logo h1 {
+  height and width: 35px;
+}
 }
 
